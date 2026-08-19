@@ -1,0 +1,1 @@
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJfzX8xtJrCImxBzMWvUviCv+NBMulGw+FZ5qXq955ai root@nas.techtales.io
